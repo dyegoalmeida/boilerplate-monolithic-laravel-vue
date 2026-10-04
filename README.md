@@ -1,2 +1,5 @@
-# boilerplate-monolithic-laravel-vue
-Boilerplate for software monolithic using the Laravel and Vue
+# Boilerplate Monolithic
+## Stacks
+- Laravel
+- Vue
+- Postgres (or Mysql)
